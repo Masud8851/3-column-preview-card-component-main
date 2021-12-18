@@ -28,7 +28,7 @@ To solve this challenge, I used:
 - [LinkedIn](https://www.linkedin.com/in/masudur-rahman15/) Profile
 - [Facebook](https://www.facebook.com/masud201342/) Profile
 
-Feel free to connect.
+**Feel free to connect.**
 
 ## Any suggestion
 
