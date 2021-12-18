@@ -24,9 +24,9 @@ To solve this challenge, I used:
 
 ## Author
 
-- [GitHub](https://github.com/Masud8851)
-- [LinkedIn](https://www.linkedin.com/in/masudur-rahman15/)
-- [Facebook](https://www.facebook.com/masud201342/)
+- [GitHub](https://github.com/Masud8851) Profile
+- [LinkedIn](https://www.linkedin.com/in/masudur-rahman15/) Profile
+- [Facebook](https://www.facebook.com/masud201342/) Profile
 
 Feel free to connect.
 
